@@ -3,6 +3,6 @@ logo: "/images/Blue.jpg?raw=true" # your photo (or logo) here
 description:
   Full-Stack Software Engineer
   <br><br>
-  <a href="https://www.linkedin.com/in/gingermbarham/" target="_blank"View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/gingermbarham/" target="_blank">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
